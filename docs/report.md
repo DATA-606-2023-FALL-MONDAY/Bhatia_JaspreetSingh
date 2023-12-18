@@ -6,6 +6,8 @@ Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
 
 **Author Name:** Jaspreet Singh Bhatia
 
+**Semester:** 6th
+
 **GitHub:** https://github.com/jaspreet007singh
 
 **LinkedIn:** https://www.linkedin.com/in/jsbhatia7/
